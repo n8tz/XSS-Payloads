@@ -1,0 +1,1 @@
+alert("Maybe you should'nt click on this link :)")
